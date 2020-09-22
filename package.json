@@ -1,6 +1,6 @@
 {
-  "_from": "react-native-wechat-mini",
-  "_id": "react-native-wechat-mini@1.0.0",
+  "_from": "react-native-wechat",
+  "_id": "react-native-wechat@1.0.0",
   "_inBundle": false,
   "_integrity": "sha1-Lxq2wIRBA681ozw7tT9VfEqf+y8=",
   "_location": "/react-native-wechat-mini",
@@ -19,7 +19,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npm.taobao.org/react-native-wechat-mini/download/react-native-wechat-mini-1.0.0.tgz",
+
   "_shasum": "2f1ab6c0844103af35a33c3bb53f557c4a9ffb2f",
   "_spec": "react-native-wechat-mini",
   "_where": "/Users/shanchaojie/Desktop/test/TeatDemo",
@@ -27,9 +27,7 @@
     "name": "Chaojie Shan",
     "email": "shanchaojie1@gmail.com"
   },
-  "bugs": {
-    "url": "https://github.com/shanchaojie/react-native-wechat-mini/issues"
-  },
+ 
   "bundleDependencies": false,
   "contributors": [
     {
@@ -42,7 +40,6 @@
   },
   "deprecated": false,
   "description": "react-native library for wechat app, add miniprogram model",
-  "homepage": "https://github.com/shanchaojie/react-native-wechat-mini#readme",
   "keywords": [
     "wechat",
     "react",
@@ -60,10 +57,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/shanchaojie/react-native-wechat-mini.git"
+    "url": "git+ssh://git@github.com/tvsj/react-native-wechat.git"
   },
   "scripts": {
     "test": "echo 1"
   },
-  "version": "1.0.5"
+  "version": "1.0.0"
 }
